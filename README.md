@@ -1,16 +1,14 @@
-## Hi there 👋
+## boas vindaas ao meu perfil 
 
-<!--
-**ricardo9234/ricardo9234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ricardo9234/ricardo9234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
-Here are some ideas to get you started:
+meu nome é ricardo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-estou estudando no alura
+-estou desenvovendo no javascript
+-utilizo esse espaço para minha organizaçao e compartilhamento dos projetos
+
+
+### meu imail
+
+rodri.ricardop@gmail.com
